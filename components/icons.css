@@ -1,0 +1,23 @@
+/* Círculo */
+.icon-circle {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #5eff9b;
+    border-radius: 50%;
+}
+
+/* Cuadrado */
+.icon-square {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #5ea9ff;
+}
+
+/* Triángulo */
+.icon-triangle {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 20px solid #ff7bf2;
+}
